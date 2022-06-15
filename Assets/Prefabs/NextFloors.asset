@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da10170ab14623c45923952529403c23, type: 3}
+  m_Name: NextFloors
+  m_EditorClassIdentifier: 
+  nextFloors:
+  - {fileID: 1532282551101389687, guid: fa41c6a6faaca7a4ba80e7d8d756cded, type: 3}
+  - {fileID: 799070323564791534, guid: b6112e138bb3bf943ba81b4ddf676f20, type: 3}
+  - {fileID: 2289744188650359206, guid: 535c8df16d206a34abaa521509862fd3, type: 3}
+  - {fileID: 7430740416739961990, guid: 1720d6e3678130c4286a1c14c24da573, type: 3}
+  - {fileID: 3912592462733734528, guid: 6c8088b1fd81ca74592b14c7a8bdf6a4, type: 3}
+  - {fileID: 4763357352464448716, guid: 2f5187ed4e4ac2c439c2457f28a7a936, type: 3}
+  - {fileID: 2812646790908640021, guid: 41d2bdb389eadc143b24b073ac28f486, type: 3}
+  - {fileID: 7992756957506590126, guid: a4d89316cf6bfeb4a9ec517994f229da, type: 3}
+  - {fileID: 7635807714953917537, guid: 14d31ef7a109d0c41acf3580e47f5785, type: 3}
+  - {fileID: 5704715392509830298, guid: e4c7d8070c7d4c44799a3eed0723cd5c, type: 3}
